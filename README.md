@@ -8,7 +8,7 @@
 
 ## 野草云官网地址
 
-[https://www.yecaoyun.com/](https://my.yecaoyun.com/aff.php?aff=4264)
+[https://www.yecaoyun.com/]
 
 ## 野草云优惠码
 
@@ -22,9 +22,9 @@
 
 | CPU | 内存 | SSD | 月流量 | 价格 | 详情 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1核心 | 2GB | 15G | 500G | 138元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=452) |
-| 2核心 | 4GB | 50G | 600G | 168元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=453) |
-| 4核心 | 8GB | 90G | 800G | 230元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=454) |
+| 1核心 | 2GB | 15G | 500G | 138元/年 | [查看详情] |
+| 2核心 | 4GB | 50G | 600G | 168元/年 | [查看详情]|
+| 4核心 | 8GB | 90G | 800G | 230元/年 | [查看详情] |
 
 ### 香港云服务器特惠产品
 
@@ -32,9 +32,9 @@ YeCaoYun香港云服务器产品适合跨境电商项目，可以选择CN2或BGP
 
 | CPU | 内存 | 硬盘 | 月流量 | 价格 | 详情 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1核心 | 1GB | 15G | 500G | 138元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=399&billingcycle=annually) |
-| 2核心 | 4GB | 50G | 800G | 188元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=400&billingcycle=annually) |
-| 4核心 | 8GB | 90G | 1500G | 268元/年 | [查看详情](https://my.yecaoyun.com/aff.php?aff=4264&pid=401&billingcycle=annually) |
+| 1核心 | 1GB | 15G | 500G | 138元/年 | [查看详情] |
+| 2核心 | 4GB | 50G | 800G | 188元/年 | [查看详情]|
+| 4核心 | 8GB | 90G | 1500G | 268元/年 | [查看详情]|
 
 ## 野草云评测
 
